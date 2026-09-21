@@ -1,1 +1,2 @@
 # gitea-mirror-test
+test
